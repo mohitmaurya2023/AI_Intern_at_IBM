@@ -22,6 +22,6 @@ st.metric(label="Temp", value = "273 K", delta = '1.2 K')
 
 st.title('Display media')
 
-st.image('./header.png')
+st.image('./image.jpg')
 # st.audio(data)
 # st.video(data)
