@@ -4,7 +4,7 @@ import streamlit as st
 st.text('Fixed width text')
 st.markdown('_MARKDOWN_')
 st.caption('Balloons. Hundreds of them...')
-st.latex(r\'\'\ e^{i\pi} + 1 = 0 \'\'\')
+# st.latex(r\'\'\ e^{i\pi} + 1 = 0 \'\'\')
 st.write('Most objects')
 st.write(['st', 'is <', 3])
 st.title('My title')
