@@ -4,7 +4,7 @@
 Welcome to the AI-ML Internship Daily Tasks Repository. This repository serves as a comprehensive record of my accomplishments throughout the AI-ML internship with IBM. It gathered all tasks, their corresponding code, and detailed explanations in a well-structured manner.
 
 ![AI - ML](AI-ML.png)
-![Ibm_px_xt_color](https://github.com/mohitmaurya2023/AI_Intern_at_IBM/assets/74113320/e2070177-6d7e-4f7d-a2d7-161a6c248877)
+![IBM](ibm.jog)
 
 ## Table of Contents
 
